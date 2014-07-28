@@ -12,5 +12,5 @@ Berksfile.lock
 Gemfile.lock
 bin/*
 .bundle/*
-
+.kitchen
 .ruby-version
